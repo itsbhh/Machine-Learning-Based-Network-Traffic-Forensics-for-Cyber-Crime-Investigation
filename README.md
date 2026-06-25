@@ -40,7 +40,7 @@ This project was developed as our B.Tech Final Semester Research Project 2022-20
 
 # My Contribution
 
-I am the co-author and corresponding author of this published research paper. I contributed extensively to both the technical implementation and research development of this project.
+I am the 2nd author and corresponding author of this published research paper. I contributed extensively to both the technical implementation and research development of this project.
 
 ### Responsibilities
 
